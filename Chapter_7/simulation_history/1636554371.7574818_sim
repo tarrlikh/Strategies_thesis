@@ -1,0 +1,1 @@
+"{\"datatype\": \"state_trajectories\", \"store_mode\": \"update_list\", \"target\": \"W\", \"system_size\": 3, \"target_accuracy\": 0.01, \"strategy_type\": \"scenario_based_active\"}"
